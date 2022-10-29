@@ -1,0 +1,6 @@
+.env
+__pycache__
+.idea
+build
+main.spec
+dist
